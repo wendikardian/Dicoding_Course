@@ -1,0 +1,45 @@
+{
+    "albums" : [
+        {
+            "title" : "1989",
+            "artist" : "Taylor Swift",
+            "img" : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fid.wikipedia.org%2Fwiki%2F1989_(album_Taylor_Swift)&psig=AOvVaw2kStRdKPDHobzRDzLhLvKJ&ust=1628848100105000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIC_s5Waq_ICFQAAAAAdAAAAABAD",
+            "releaseYear" : "2014",
+            "topSong" : [
+                "Shake it off",
+                "Blank space"
+            ]
+        },
+        {
+            "title" : "Future Nostalgia",
+            "artist" : "Dua Lipa",
+            "img"  : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thejakartapost.com%2Flife%2F2020%2F03%2F31%2Fdua-lipas-future-nostalgia-songs-for-the-end-of-the-world-as-we-know-it-and-its-fine.html&psig=AOvVaw3juBa7H-I-89VVtKBcb1h0&ust=1628848139812000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMilzqiaq_ICFQAAAAAdAAAAABAD",
+            "releaseYear" : "2020",
+            "topSong" : [
+                "Dont Start Now",
+                "Levitating"
+            ]
+        },
+        {
+            "title" : "After Hours",
+            "artist" : "The Weeknd",
+            "img"  : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FAfter_Hours_(The_Weeknd_album)&psig=AOvVaw0pT4deOkyDdp1NWpSF9m_3&ust=1628848185695000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNCZnb6aq_ICFQAAAAAdAAAAABAD",
+            "releaseYear" : "2020",
+            "topSong" : [
+                "Blinding Light",
+                "Save Your Tears"
+            ]
+        },
+        {
+            "title" : "Thank u, Next",
+            "artist" : "Ariana Grande",
+            "img"  : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fid.wikipedia.org%2Fwiki%2FThank_U%2C_Next_(album)&psig=AOvVaw2KMP06Sxf7svGgLPvjYF3X&ust=1628848255674000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKDA2d-aq_ICFQAAAAAdAAAAABAD",
+            "releaseYear" : "2019",
+            "topSong" : [
+                "Thank u, next",
+                "7 Rings"
+            ]
+        }
+        
+    ]
+}

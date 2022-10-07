@@ -1,0 +1,40 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-shadow: border-box;
+    
+}
+
+.navbar {
+    margin: 0;
+    padding: 0;
+    box-shadow: border-box;
+    width: 100%;
+    color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    justify-content: space-between;
+    display: flex;
+}
+
+h2 {
+    padding: 20px;
+    color: black;
+}
+
+.form-inline {
+    margin-right: 40px;
+}
+
+nav {
+    height: 80px;
+    background-color: #EEEEEE;
+}
+
+.fa {
+    margin-right: 10px;
+    color: black;
+}
+
+.form-inline{
+    margin-right: 20px;
+}
